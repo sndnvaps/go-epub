@@ -2,7 +2,7 @@ package epub_test
 
 import (
 	"fmt"
-	"github.com/bmaupin/go-epub"
+	"github.com/sndnvaps/go-epub"
 	"log"
 )
 
